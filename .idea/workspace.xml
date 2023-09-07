@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5d5aa6-3773-4d64-bb22-4d323c701750" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/react-frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/component/EmployeeComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/service/EmployeeService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-service/src/main/java/me/wanpin/employeeservice/service/impl/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee-service/src/main/java/me/wanpin/employeeservice/service/impl/EmployeeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/employee-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organization-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/organization-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organization-service/src/main/java/me/wanpin/organizationservice/OrganizationServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/organization-service/src/main/java/me/wanpin/organizationservice/OrganizationServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organization-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/organization-service/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="9f5d5aa6-3773-4d64-bb22-4d323c701750" name="Default Changelist" comment="add react" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +22,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -228,7 +200,7 @@
       <workItem from="1693867213917" duration="12725000" />
       <workItem from="1694033039932" duration="4000" />
       <workItem from="1694033061552" duration="15391000" />
-      <workItem from="1694103668716" duration="1887000" />
+      <workItem from="1694103668716" duration="2210000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1694042629283</created>
@@ -237,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694042629283</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add react">
+      <created>1694106416110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694106416110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +237,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add react" />
+    <option name="LAST_COMMIT_MESSAGE" value="add react" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
